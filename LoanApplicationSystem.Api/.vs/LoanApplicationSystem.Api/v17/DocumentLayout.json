@@ -3,33 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\configurations\\authenticationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:configurations\\authenticationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C36A619-B8A3-49B2-AB39-5232C132589B}|..\\LoanApplicationSystem.Application\\LoanApplicationSystem.Application.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.application\\authentication\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C36A619-B8A3-49B2-AB39-5232C132589B}|..\\LoanApplicationSystem.Application\\LoanApplicationSystem.Application.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C36A619-B8A3-49B2-AB39-5232C132589B}|..\\LoanApplicationSystem.Application\\LoanApplicationSystem.Application.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.application\\authentication\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C36A619-B8A3-49B2-AB39-5232C132589B}|..\\LoanApplicationSystem.Application\\LoanApplicationSystem.Application.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.application\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C36A619-B8A3-49B2-AB39-5232C132589B}|..\\LoanApplicationSystem.Application\\LoanApplicationSystem.Application.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.application\\authentication\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C36A619-B8A3-49B2-AB39-5232C132589B}|..\\LoanApplicationSystem.Application\\LoanApplicationSystem.Application.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.application\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\configurations\\authenticationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:configurations\\authenticationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01045203-1983-4179-AB38-D9DDCCD61F17}|..\\LoanApplicationSystem.Domain\\LoanApplicationSystem.Domain.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.domain\\loanapplicationsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.api\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0922D-0B7D-460B-AA71-A2B5122BC9A6}|LoanApplicationSystem.Api.csproj|solutionrelative:models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01045203-1983-4179-AB38-D9DDCCD61F17}|..\\LoanApplicationSystem.Domain\\LoanApplicationSystem.Domain.csproj|c:\\users\\emil\\source\\repos\\loanapplicationsystem\\loanapplicationsystem.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -57,34 +71,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 941,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticationMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Configurations\\AuthenticationMappingProfile.cs",
-              "RelativeDocumentMoniker": "Configurations\\AuthenticationMappingProfile.cs",
-              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Configurations\\AuthenticationMappingProfile.cs",
-              "RelativeToolTip": "Configurations\\AuthenticationMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T07:30:07.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Models\\Requests\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "Models\\Requests\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Models\\Requests\\RegisterRequest.cs",
-              "RelativeToolTip": "Models\\Requests\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T07:28:58.415Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -107,13 +95,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Application\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Application\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Application\\Common\\Result.cs",
+              "RelativeToolTip": "..\\LoanApplicationSystem.Application\\Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:51:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Common\\ApiResponse.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:47:20.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Extensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Extensions\\ResultExtensions.cs",
+              "RelativeToolTip": "Extensions\\ResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:42:46.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthenticationResult.cs",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Application\\Authentication\\AuthenticationResult.cs",
               "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Application\\Authentication\\AuthenticationResult.cs",
               "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Application\\Authentication\\AuthenticationResult.cs",
               "RelativeToolTip": "..\\LoanApplicationSystem.Application\\Authentication\\AuthenticationResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T07:10:55.541Z",
               "EditorCaption": ""
@@ -134,45 +161,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T19:41:04.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
-              "RelativeToolTip": "..\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T07:17:02.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "RegisterCommand.cs",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Application\\Authentication\\RegisterCommand.cs",
               "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Application\\Authentication\\RegisterCommand.cs",
               "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Application\\Authentication\\RegisterCommand.cs",
               "RelativeToolTip": "..\\LoanApplicationSystem.Application\\Authentication\\RegisterCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T06:31:37.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:16:46.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:41:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Configurations\\AuthenticationMappingProfile.cs",
+              "RelativeDocumentMoniker": "Configurations\\AuthenticationMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Configurations\\AuthenticationMappingProfile.cs",
+              "RelativeToolTip": "Configurations\\AuthenticationMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:18:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoanApplicationSystem.Domain",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\LoanApplicationSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Domain\\LoanApplicationSystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\LoanApplicationSystem.Domain.csproj",
+              "RelativeToolTip": "..\\LoanApplicationSystem.Domain\\LoanApplicationSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T08:26:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CustomControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Controllers\\CustomControllerBase.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomControllerBase.cs",
@@ -185,20 +238,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Requests\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\Requests\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T06:16:46.614Z",
+              "WhenOpened": "2025-06-28T07:28:58.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\LoanApplicationSystem.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T07:17:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "..\\LoanApplicationSystem.Domain\\Entities\\User.cs",
@@ -211,20 +277,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoanApplicationSystem.Api",
+              "DocumentIndex": 14,
+              "Title": "LoanApplicationSystem.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\LoanApplicationSystem.Api.csproj",
               "RelativeDocumentMoniker": "LoanApplicationSystem.Api.csproj",
               "ToolTip": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\LoanApplicationSystem.Api.csproj",
               "RelativeToolTip": "LoanApplicationSystem.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-28T07:19:51.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -237,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "LoanApplicationSystem.Api.http",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\LoanApplicationSystem\\LoanApplicationSystem.Api\\LoanApplicationSystem.Api.http",
               "RelativeDocumentMoniker": "LoanApplicationSystem.Api.http",
@@ -247,10 +313,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-06-27T19:41:02.829Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         },

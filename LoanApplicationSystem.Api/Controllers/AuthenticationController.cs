@@ -2,6 +2,7 @@
 
 using ApiServer.Controllers;
 using AutoMapper;
+using LoanApplicationSystem.Api.Models.Requests;
 using LoanApplicationSystem.Application.Authentication;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
@@ -27,9 +28,7 @@ namespace LoanApplicationSystem.Api.Controllers
             var command = _mapper.Map<RegisterCommand>(request);
             AuthenticationResult authResult = await _mediator.Send(command);
 
-            return authResult.Match(
-                authResult => Ok(_mapper.Map<AuthenticationResponse>(authResult)),
-                errors => (Problem(errors)));
+            return Ok();
         }
     }
 }
