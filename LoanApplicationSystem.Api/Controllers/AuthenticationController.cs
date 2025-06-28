@@ -2,6 +2,7 @@
 
 using ApiServer.Controllers;
 using AutoMapper;
+using LoanApplicationSystem.Api.Common;
 using LoanApplicationSystem.Api.Models.Requests;
 using LoanApplicationSystem.Application.Authentication;
 using MediatR;
@@ -26,9 +27,15 @@ namespace LoanApplicationSystem.Api.Controllers
         public async Task<IActionResult> Register(RegisterRequest request)
         {
             var command = _mapper.Map<RegisterCommand>(request);
-            AuthenticationResult authResult = await _mediator.Send(command);
+            var authResult = await _mediator.Send(command);
+            var response = ApiResponse.FromResult(authResult);
+            
+            if (response.Errors.Any())
+            {
+                return BadRequest(String.Join(',', response.Errors));
+            }
 
-            return Ok();
+            return Ok(response.Message);
         }
     }
 }

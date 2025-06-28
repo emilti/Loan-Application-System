@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using LoanApplicationSystem.Api.Common;
+using LoanApplicationSystem.Application.Common;
+using Microsoft.AspNetCore.Mvc;
 namespace LoanApplicationSystem.Api.Extensions
 {
         public static class ResultExtensions

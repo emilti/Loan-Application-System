@@ -39,4 +39,3 @@ namespace LoanApplicationSystem.Api.Common
     }
 }
 
-}

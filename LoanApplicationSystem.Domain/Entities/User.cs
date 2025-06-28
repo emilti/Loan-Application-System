@@ -2,12 +2,11 @@
 {
     public class User
     {
-        public string Email { get; private set; }
-        public List<Role> Roles { get; private set; } = [];
-
-        public User(string name, string email)
+        public User(string email)
         {
             Email = email;
         }
+
+        public string Email  { get; private set; }
     }
 }
